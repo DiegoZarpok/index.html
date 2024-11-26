@@ -1,0 +1,35 @@
+body {
+    background-color: #f0f8ff; /* Cor de fundo leve e agradável */
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.table {
+    background-color: #f5f5f5; /* Cor de fundo diferente para a lista de contatos */
+    border-radius: 5px;
+}
+
+.table th {
+    background-color: #4682b4; /* Cor do cabeçalho da tabela */
+    color: #ffffff;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #e0e0e0; /* Cor de fundo alternada para as linhas */
+}
